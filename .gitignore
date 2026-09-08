@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+
+# Virtual environments
+venv/
+.venv/
+env/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Temporary / lock files
+.~lock.*#
+
+# Large model / binary artifact*.pt
+*.pth
+*.h5
+*.hdf5
+
+# Generated figures
+*.png
+*.jpg
+*.jpeg
+*.pdf
+
+# Generated datasets / results
+*.csv
+
+# OS/editor files
+.DS_Store
+Thumbs.db
